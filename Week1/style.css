@@ -1,0 +1,19 @@
+body {
+    background-image:url(background2.png) ;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#rcorners {
+    border-radius: 25px;
+    padding: 20px; 
+    width: 400px;
+  }
+
+div {
+    position:fixed;
+    top: 35%;
+    left: 40%;
+}
