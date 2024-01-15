@@ -1,7 +1,8 @@
+
 body {
-    background-image:url(background2.png) ;
-    background-repeat: no-repeat;
+    background-image:url(background.PNG) ;
     background-position: center center;
+    background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
 }
@@ -14,6 +15,6 @@ body {
 
 div {
     position:fixed;
-    top: 35%;
-    left: 40%;
+    top: 33%;
+    left: 37%;
 }
