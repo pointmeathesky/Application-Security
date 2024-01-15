@@ -1,0 +1,16 @@
+body {
+    background-image:url(gogle-search2.png) ;
+    background-repeat: no-repeat;
+}
+
+
+.textstyle {
+    border-radius: 25px;
+    padding: 20px; 
+    width: 400px;
+    border: 2px solid lightgray;
+    padding: 20px;
+    position:fixed;
+    top: 2%;
+    left: 17%;
+  }
